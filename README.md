@@ -34,8 +34,6 @@ Exporté los dataframes a MySql para poder seguir trabajando con ellos, puliendo
 ## Imputación de valores faltantes
 Tuve que analizar si había, cuántos había y qué hacer con esos valores nulos. Una opción era borrarlos, pero no me pareció la más viable. Como la mayoría de las variables eran categóricas, decidí omitir esos valores nulos rellenandolos con un 'Sin Dato' mediante el método 'fillna()'.
 
-## Visualizacion de datos
-Realicé un histograma de la columna 'año_lanzamiento' para ver la distribución de las cantidades de films por año. No extendí mucho el análisis en esta parte, pero podría haber hecho gráficos para ver las distribuciones de algunas variables, como estaban compuestas las variables categoricas, etc.
 
 
 ### Creación de la API en un entorno docker
