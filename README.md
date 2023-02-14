@@ -3,6 +3,10 @@
 
 # PROYECTO INDIVIDUAL 1: Blas Collias
 
+<p align="center">
+<img src="https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg"  height=300>
+</p>
+
 # Introducción
 La idea del proyecto fue aprender a elaborar y ejecutar una API, mediante la herramienta FastAPI que justamente es conocida por ser de alto rendimiento, rapida, intuitiva y minimizar tanto el código como el error humano. Previamente, fueron provistos un conjunto de archivos de plataformas de films(series y shows de TV) para que nosotros apliquemos el proceso de ETL, el cual voy a explicar los pasos que tomé.
 
