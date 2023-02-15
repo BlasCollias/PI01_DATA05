@@ -8,7 +8,7 @@
 </p>
 
 # Introducción
-La idea del proyecto fue aprender a elaborar y ejecutar una API, mediante la herramienta FastAPI que justamente es conocida por ser de alto rendimiento, rapida, intuitiva y minimizar tanto el código como el error humano. Previamente, fueron provistos un conjunto de archivos de plataformas de films(series y shows de TV) para que nosotros apliquemos el proceso de ETL, el cual voy a explicar los pasos que tomé.
+La idea del proyecto fue aprender a elaborar y ejecutar una API, mediante la herramienta FastAPI que justamente es conocida por ser de alto rendimiento, rapida, intuitiva y minimizar tanto el código como el error humano. Previamente, fueron provistos un conjunto de archivos de plataformas de films(series y shows de TV) a los que le aplicamos el proceso de ETL y los dejamos listos para su consumo. Para terminar realizamos consultas en la API, que previamente nos habían solicitado.
 
 Tecnologías utilizadas: Python, Pandas, Docker, FastAPI.
 
